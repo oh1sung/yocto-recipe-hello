@@ -55,9 +55,3 @@ other layers needed. e.g.:
     /path/to/yocto/meta-wsdevelop \
     "
 
-
-II. Misc
-========
-
-This layer contain example recipes for the title 
-[Using Yocto Project with Beaglebone Black](https://www.packtpub.com/hardware-and-creative/yocto-beaglebone)
